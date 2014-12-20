@@ -1,0 +1,9 @@
+cocoapods追加手順
+
+1.インストールするxcodeファイルの中に空のpodfileを追加
+2.podfileの中に、インストールするモジュールを記述
+3.ターミナルを開き、該当するxcodeファイルの直下に移動
+4.cocoapodsモジュールのインストール
+5.該当のxcodeファイルではなく、workspaceファイルを開く
+6.objective-cファイルにてcocoatouchファイルを追加
+7.headerインポート
